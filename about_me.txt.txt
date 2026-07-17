@@ -1,0 +1,3 @@
+My name is Alberta
+I am an ICT student at the university of CATUC Bamenda
+This repository was created for my Software Engineering assignment.
