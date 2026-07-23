@@ -5,4 +5,4 @@ function isEven(num) {
 }
 
 // Test case
-console.log(isEven(4)); // true
+console.log(isEven(4));               // true
